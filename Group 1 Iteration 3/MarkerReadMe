@@ -1,0 +1,10 @@
+1. We have implemented up to the end of the first round. There is still no starting tile for any player and no AI functionality has been built. Please do 
+ not select any AI during game setup as these players will not be created and it will break this minor release.
+
+2. Some buttons in the game do not have any functionality, and others are missing some functionality to ensure proper use.
+
+3. The colourConfiguration.txt file must live in the same folder as the jar/java files.
+
+4. Run the KingDomino.jar file via commandline interpreter (console/terminal) with command 'java -jar KingDomino.jar' (without the quotes)
+If the jar file does not execute for some reason, download all .java files and the colourConfiguration.txt file into the same folder. Via a console/terminal
+use the command 'javac *.java' (without quotes) and then use 'java Driver' (without quotes).
